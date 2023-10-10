@@ -1,0 +1,193 @@
+{
+  "Spieler": [
+    {
+      "Name": "Raphael Sager",
+      "Sp": 20,
+      "2er": 6,
+      "2+2": 0,
+      "10er": 2,
+      "MS": 0,
+      "PS": 0
+    },
+    {
+      "Name": "Andrin Farner",
+      "Sp": 21,
+      "2er": 9,
+      "2+2": 0,
+      "10er": 0,
+      "MS": 0,
+      "PS": 0
+    },
+    {
+      "Name": "Nicolas Gassmann",
+      "Sp": 19,
+      "2er": 9,
+      "2+2": 0,
+      "10er": 0,
+      "MS": 0,
+      "PS": 1
+    },
+    {
+      "Name": "Juho Kuutsa",
+      "Sp": 14,
+      "2er": 2,
+      "2+2": 0,
+      "10er": 1,
+      "MS": 0,
+      "PS": 0
+    },
+    {
+      "Name": "Marc Pfister",
+      "Sp": 27,
+      "2er": 6,
+      "2+2": 0,
+      "10er": 0,
+      "MS": 0,
+      "PS": 0
+    },
+    {
+      "Name": "Fabian Ullmann",
+      "Sp": 28,
+      "2er": 3,
+      "2+2": 0,
+      "10er": 0,
+      "MS": 0,
+      "PS": 0
+    },
+    {
+      "Name": "Simon Baumann",
+      "Sp": 12,
+      "2er": 3,
+      "2+2": 0,
+      "10er": 0,
+      "MS": 0,
+      "PS": 0
+    },
+    {
+      "Name": "Mike Bader",
+      "Sp": 26,
+      "2er": 3,
+      "2+2": 0,
+      "10er": 0,
+      "MS": 0,
+      "PS": 0
+    },
+    {
+      "Name": "Nico Forster",
+      "Sp": 28,
+      "2er": 3,
+      "2+2": 0,
+      "10er": 0,
+      "MS": 0,
+      "PS": 0
+    },
+    {
+      "Name": "Jan Olbrecht",
+      "Sp": 23,
+      "2er": 3,
+      "2+2": 0,
+      "10er": 0,
+      "MS": 0,
+      "PS": 1
+    },
+    {
+      "Name": "Robin Konrad",
+      "Sp": 24,
+      "2er": 3,
+      "2+2": 0,
+      "10er": 0,
+      "MS": 0,
+      "PS": 1
+    },
+    {
+      "Name": "Raphael Germann",
+      "Sp": 20,
+      "2er": 2,
+      "2+2": 0,
+      "10er": 0,
+      "MS": 0,
+      "PS": 0
+    },
+    {
+      "Name": "Dario Knup",
+      "Sp": 11,
+      "2er": 2,
+      "2+2": 0,
+      "10er": 0,
+      "MS": 0,
+      "PS": 0
+    },
+    {
+      "Name": "Luca Maurer",
+      "Sp": 26,
+      "2er": 2,
+      "2+2": 0,
+      "10er": 0,
+      "MS": 0,
+      "PS": 1
+    },
+    {
+      "Name": "Diego Casagrande",
+      "Sp": 10,
+      "2er": 1,
+      "2+2": 0,
+      "10er": 0,
+      "MS": 0,
+      "PS": 0
+    },
+    {
+      "Name": "Elias Steinemann",
+      "Sp": 20,
+      "2er": 1,
+      "2+2": 0,
+      "10er": 0,
+      "MS": 0,
+      "PS": 0
+    },
+    {
+      "Name": "Joel Steinemann",
+      "Sp": 4,
+      "2er": 1,
+      "2+2": 0,
+      "10er": 0,
+      "MS": 0,
+      "PS": 0
+    },
+    {
+      "Name": "Joel Schmuki",
+      "Sp": 27,
+      "2er": 1,
+      "2+2": 0,
+      "10er": 0,
+      "MS": 0,
+      "PS": 0
+    },
+    {
+      "Name": "Nathan Brocco",
+      "Sp": 3,
+      "2er": 1,
+      "2+2": 0,
+      "10er": 0,
+      "MS": 0,
+      "PS": 0
+    },
+    {
+      "Name": "Yannik Stamm",
+      "Sp": 10,
+      "2er": 1,
+      "2+2": 0,
+      "10er": 0,
+      "MS": 0,
+      "PS": 0
+    },
+    {
+      "Name": "Roger Wetter",
+      "Sp": 27,
+      "2er": 1,
+      "2+2": 0,
+      "10er": 0,
+      "MS": 0,
+      "PS": 1
+    }
+  ]
+}
